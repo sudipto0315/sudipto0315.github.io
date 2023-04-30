@@ -453,7 +453,7 @@ window.CONFIG = {
       triggers: [
         'a',
         'am',
-        'amz',
+        'ama',
         'amazon',
       ],
       icon: 'amazon',
